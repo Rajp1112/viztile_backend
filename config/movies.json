@@ -1,0 +1,114 @@
+[
+ {
+   "name": "Inception",
+   "imag": "inception.jpg",
+   "year": 2010,
+   "genre": ["Sci-Fi", "Thriller"],
+   "rating": 8.8
+ },
+ {
+   "name": "The Dark Knight",
+   "imag": "dark_knight.jpg",
+   "year": 2008,
+   "genre": ["Action", "Crime", "Drama"],
+   "rating": 9.0
+ },
+ {
+   "name": "Interstellar",
+   "imag": "interstellar.jpg",
+   "year": 2014,
+   "genre": ["Adventure", "Drama", "Sci-Fi"],
+   "rating": 8.6
+ },
+ {
+  "name": "new",
+  "imag": "new.jpg",
+  "year": 2015,
+  "genre": ["Action", "Thriller"],
+  "rating": 8.2
+},
+ {
+   "name": "The Matrix",
+   "imag": "matrix.jpg",
+   "year": 1999,
+   "genre": ["Sci-Fi", "Action"],
+   "rating": 8.7
+ },
+ {
+   "name": "Gladiator",
+   "imag": "gladiator.jpg",
+   "year": 2000,
+   "genre": ["Action", "Drama"],
+   "rating": 8.5
+ },
+ {
+   "name": "Joker",
+   "imag": "joker.jpg",
+   "year": 2019,
+   "genre": ["Crime", "Drama", "Thriller"],
+   "rating": 8.4
+ },
+ {
+   "name": "Toy Story",
+   "imag": "toystory.jpg",
+   "year": 1995,
+   "genre": ["Animation", "Comedy", "Family"],
+   "rating": 8.3
+ },
+ {
+   "name": "It",
+   "imag": "it.jpg",
+   "year": 2017,
+   "genre": ["Horror", "Mystery", "Thriller"],
+   "rating": 7.3
+ },
+ {
+   "name": "Titanic",
+   "imag": "titanic.jpg",
+   "year": 1997,
+   "genre": ["Drama", "Romance"],
+   "rating": 7.8
+ },
+ {
+   "name": "Django Unchained",
+   "imag": "django.jpg",
+   "year": 2012,
+   "genre": ["Western", "Drama"],
+   "rating": 8.4
+ },
+ {
+   "name": "The Lord of the Rings: The Fellowship of the Ring",
+   "imag": "lotr1.jpg",
+   "year": 2001,
+   "genre": ["Fantasy", "Adventure"],
+   "rating": 8.8
+ },
+ {
+   "name": "The Conjuring",
+   "imag": "conjuring.jpg",
+   "year": 2013,
+   "genre": ["Horror", "Thriller"],
+   "rating": 7.5
+ },
+ {
+   "name": "The Grand Budapest Hotel",
+   "imag": "grandbudapest.jpg",
+   "year": 2014,
+   "genre": ["Comedy", "Drama"],
+   "rating": 8.1
+ },
+ {
+   "name": "The Good, the Bad and the Ugly",
+   "imag": "goodbadugly.jpg",
+   "year": 1966,
+   "genre": ["Western", "Adventure"],
+   "rating": 8.8
+ },
+ {
+   "name": "The Prestige",
+   "imag": "prestige.jpg",
+   "year": 2006,
+   "genre": ["Drama", "Mystery", "Sci-Fi"],
+   "rating": 8.5
+ }
+]
