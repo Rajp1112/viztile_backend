@@ -24,7 +24,14 @@ app.use('/api/data', serviceRoute);
 app.use('/api/admin', adminRoute);
 app.use('/api', movieRoute);
 app.use(errorMiddleware);
-const PORT = 5000;
+
+const args = require('minimist')(process.argv.slice(2));
+
+const host = args.host || 'localhost';
+const PORT = args.port || 5000;
+
+console.log(`Server is running on host: ${host}`);
+console.log(`Server is running on port: ${PORT}`);
 
 connectDb().then(() => {
   app.listen(PORT, () => {
